@@ -1,8 +1,8 @@
 ### Hi there 👋
-One day, my passion for OS Linux, which was my hobby, turned into a profession...
+One day, my passion for OS Linux, which was my hobby, turned into a profession.
 Since 2013 I have been doing web development.
-It all started with php, but over time, step by step, JavaScript replaced php. I started writing both server and client in Javascript. TypeScript is currently my main development language. At the same time, I am open to everything new. Blockchain, C++, Python, Go attract me...
-My profile reflects my interests and searches. Welcome...
+It all started with php, but over time, step by step, JavaScript replaced php. I started writing both server and client in Javascript. TypeScript is currently my main development language. At the same time, I am open to everything new. Blockchain, C++, Python, Go attract me.
+My profile reflects my interests and searches. Welcome!
 
 Here are some ideas to get you started:
 
