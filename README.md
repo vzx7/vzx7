@@ -6,7 +6,7 @@ My profile reflects my interests and searches. Welcome!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ![chat3-manager](https://github.com/users/vzx7/projects/2).
+<!--- 🔭 I’m currently working on ![chat3-manager](https://github.com/users/vzx7/projects/2).-->
 - 🌱 I’m currently learning Go.
 - 📫 How to reach me: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VRL64).
   
